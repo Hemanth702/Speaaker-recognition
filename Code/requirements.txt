@@ -1,0 +1,9 @@
+os 
+numpy
+matplotlib
+tensorflow
+pathlib
+librosa
+tqdm 
+scikit-learn
+spela
